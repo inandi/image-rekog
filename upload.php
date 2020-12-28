@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 $args = [
     'credentials' => [
         'key' => 'AKIHA4MNYJAK2KTGWURLDVE',
-        'secret' => 'ERjTPHGN1jcsfnlwd9zM7DbydDwnxD04kD8r'
+        'secret' => 'ERjTPHGN1jcsfnlwllM7DbydDwnxD04kD8r'
     ],
     'region' => 'ap-south-1',
     'version' => 'latest'
